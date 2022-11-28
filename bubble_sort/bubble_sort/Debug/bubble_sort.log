@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\zrowx\source\repos\bubble_sort\bubble_sort\소스.cpp(37,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  bubble_sort.vcxproj -> C:\Users\zrowx\source\repos\bubble_sort\Debug\bubble_sort.exe
